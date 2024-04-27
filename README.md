@@ -24,9 +24,9 @@ Zget is an open-source utility written in Zig, designed for the retrieval of web
 Zget is currently extended with the following modules.
 Instructions on how to use them in your own application are linked below.
 
-| Plugin  | README                            |
-| ------- | --------------------------------- |
-| Zig-cli | [plugins/dropbox/README.md][PlDb] |
+| Plugin  | README                                                           |
+| ------- | ---------------------------------------------------------------- |
+| Zig-cli | [src/modules/zig-cli/README.md](./src/modules/zig-cli/README.md) |
 
 ## Building from source
 
